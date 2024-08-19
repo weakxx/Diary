@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bab78ae5_002Da1fc_002D42a1_002D9756_002D868812fcaba4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetReport_ShouldBe_NotNull" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6EB32690-87DB-4247-9B34-1E8CD054B070::net8.0::ASProject.Tests.CreateReportTest.GetReport_ShouldBe_NotNull&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6EB32690-87DB-4247-9B34-1E8CD054B070::net8.0::ASProject.Tests.CreateReportTest.CreateReport_ShouldBe_Return_NewReport&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6EB32690-87DB-4247-9B34-1E8CD054B070::net8.0::ASProject.Tests.CreateReportTest.UpdateReport_ShouldBe_Return_NewData_For_Report&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=Core_002FASProject_002EApplication_002FResoursces_002FErrorMessage/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/Initialized/@EntryValue">True</s:Boolean></wpf:ResourceDictionary>

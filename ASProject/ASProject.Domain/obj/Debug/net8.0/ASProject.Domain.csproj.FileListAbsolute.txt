@@ -1,0 +1,12 @@
+C:\Projects\ASProject\ASProject.Domain\bin\Debug\net8.0\ASProject.Domain.deps.json
+C:\Projects\ASProject\ASProject.Domain\bin\Debug\net8.0\ASProject.Domain.dll
+C:\Projects\ASProject\ASProject.Domain\bin\Debug\net8.0\ASProject.Domain.pdb
+C:\Projects\ASProject\ASProject.Domain\obj\Debug\net8.0\ASProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ASProject\ASProject.Domain\obj\Debug\net8.0\ASProject.Domain.AssemblyInfoInputs.cache
+C:\Projects\ASProject\ASProject.Domain\obj\Debug\net8.0\ASProject.Domain.AssemblyInfo.cs
+C:\Projects\ASProject\ASProject.Domain\obj\Debug\net8.0\ASProject.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\ASProject\ASProject.Domain\obj\Debug\net8.0\ASProject.Domain.dll
+C:\Projects\ASProject\ASProject.Domain\obj\Debug\net8.0\refint\ASProject.Domain.dll
+C:\Projects\ASProject\ASProject.Domain\obj\Debug\net8.0\ASProject.Domain.pdb
+C:\Projects\ASProject\ASProject.Domain\obj\Debug\net8.0\ref\ASProject.Domain.dll
+C:\Projects\ASProject\ASProject.Domain\obj\Debug\net8.0\ASProject.Domain.csproj.AssemblyReference.cache

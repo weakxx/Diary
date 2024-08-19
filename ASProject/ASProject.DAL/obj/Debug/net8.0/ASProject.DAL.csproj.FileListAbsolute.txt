@@ -1,0 +1,15 @@
+C:\Projects\ASProject\ASProject.DAL\bin\Debug\net8.0\ASProject.DAL.deps.json
+C:\Projects\ASProject\ASProject.DAL\bin\Debug\net8.0\ASProject.DAL.dll
+C:\Projects\ASProject\ASProject.DAL\bin\Debug\net8.0\ASProject.DAL.pdb
+C:\Projects\ASProject\ASProject.DAL\bin\Debug\net8.0\ASProject.Domain.dll
+C:\Projects\ASProject\ASProject.DAL\bin\Debug\net8.0\ASProject.Domain.pdb
+C:\Projects\ASProject\ASProject.DAL\obj\Debug\net8.0\ASProject.DAL.csproj.AssemblyReference.cache
+C:\Projects\ASProject\ASProject.DAL\obj\Debug\net8.0\ASProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ASProject\ASProject.DAL\obj\Debug\net8.0\ASProject.DAL.AssemblyInfoInputs.cache
+C:\Projects\ASProject\ASProject.DAL\obj\Debug\net8.0\ASProject.DAL.AssemblyInfo.cs
+C:\Projects\ASProject\ASProject.DAL\obj\Debug\net8.0\ASProject.DAL.csproj.CoreCompileInputs.cache
+C:\Projects\ASProject\ASProject.DAL\obj\Debug\net8.0\ASProjec.DF3F11E0.Up2Date
+C:\Projects\ASProject\ASProject.DAL\obj\Debug\net8.0\ASProject.DAL.dll
+C:\Projects\ASProject\ASProject.DAL\obj\Debug\net8.0\refint\ASProject.DAL.dll
+C:\Projects\ASProject\ASProject.DAL\obj\Debug\net8.0\ASProject.DAL.pdb
+C:\Projects\ASProject\ASProject.DAL\obj\Debug\net8.0\ref\ASProject.DAL.dll

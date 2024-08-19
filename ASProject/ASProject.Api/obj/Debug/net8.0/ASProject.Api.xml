@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ASProject.Api</name>
+    </assembly>
+    <members>
+        <member name="M:ASProject.Api.Controllers.AuthController.Register(ASProject.Domain.Dto.User.RegisterUserDto)">
+            <summary>
+            Регистрация пользователя
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ASProject.Api.Controllers.AuthController.Login(ASProject.Domain.Dto.User.LoginUserDto)">
+            <summary>
+            Логин пользователя
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ASProject.Api.Controllers.ReportController.GetUserReports(System.Int64)">
+            <summary>
+            Получение отчётов пользователя
+            </summary>
+            <param name="userId"></param>
+            <remarks>
+            Sample request:
+            
+                GET
+                {
+                    "id": 1
+                }
+            </remarks>
+            <response code="200">Если отчёты были найдены</response>
+            <response code="400">Если отчёты не были найдены</response>
+        </member>
+        <member name="M:ASProject.Api.Controllers.ReportController.GetReport(System.Int64)">
+            <summary>
+            Получение отчёта с указанием идентификатора
+            </summary>
+            <param name="id"></param>
+            <remarks>
+            Sample request:
+            
+                GET
+                {
+                    "id": 1
+                }
+            </remarks>
+            <response code="200">Если отчёт был найден</response>
+            <response code="400">Если отчёт не был найден</response>
+        </member>
+        <member name="M:ASProject.Api.Controllers.ReportController.Delete(System.Int64)">
+            <summary>
+            Удаление отчёта
+            </summary>
+            <param name="id"></param>
+            <remarks>
+            Request for create report:
+            
+                POST
+                {
+                    "name": "Report #1",
+                    "description": "Test report",
+                    "userId": 1
+                }
+            </remarks>
+            <response code="200">Если отчёт был удалён</response>
+            <response code="400">Если отчёт не был удалён</response>
+        </member>
+        <member name="M:ASProject.Api.Controllers.ReportController.Create(ASProject.Domain.Dto.Report.CreateReportDto)">
+            <summary>
+            Создание отчёта
+            </summary>
+            <param name="dto"></param>
+            <remarks>
+            Sample request: 
+            
+                POST
+                {
+                    "id": "1"
+                }
+            </remarks>
+            <response code="200">Если отчёт создался</response>
+            <response code="400">Если отчёт не был создан</response>
+        </member>
+        <member name="M:ASProject.Api.Controllers.ReportController.Update(ASProject.Domain.Dto.Report.UpdateReportDto)">
+            <summary>
+            Обновление отчёта с указанием основных свойств
+            </summary>
+            <param name="dto"></param>
+            <remarks>
+            Sample request:
+            
+                PUT
+                {
+                    "id": 1,
+                    "name": "Report #2",
+                    "Description": "Test report"
+                }
+            </remarks>
+            <response code="200">Если отчёт был обновлён</response>
+            <response code="400">Если отчёт не был обновлён</response>
+        </member>
+        <member name="M:ASProject.Api.Startup.AddAuthenticationAndAuthorization(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.AspNetCore.Builder.WebApplicationBuilder)">
+            <summary>
+            Подключение аутентификации и авторизации
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:ASProject.Api.Startup.AddSwagger(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Подключение Swagger
+            </summary>
+            <param name="services"></param>
+        </member>
+    </members>
+</doc>

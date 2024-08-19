@@ -1,0 +1,12 @@
+C:\Projects\ASProject\ASProject.Producer\bin\Debug\net8.0\ASProject.Producer.deps.json
+C:\Projects\ASProject\ASProject.Producer\bin\Debug\net8.0\ASProject.Producer.dll
+C:\Projects\ASProject\ASProject.Producer\bin\Debug\net8.0\ASProject.Producer.pdb
+C:\Projects\ASProject\ASProject.Producer\obj\Debug\net8.0\ASProject.Producer.csproj.AssemblyReference.cache
+C:\Projects\ASProject\ASProject.Producer\obj\Debug\net8.0\ASProject.Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ASProject\ASProject.Producer\obj\Debug\net8.0\ASProject.Producer.AssemblyInfoInputs.cache
+C:\Projects\ASProject\ASProject.Producer\obj\Debug\net8.0\ASProject.Producer.AssemblyInfo.cs
+C:\Projects\ASProject\ASProject.Producer\obj\Debug\net8.0\ASProject.Producer.csproj.CoreCompileInputs.cache
+C:\Projects\ASProject\ASProject.Producer\obj\Debug\net8.0\ASProject.Producer.dll
+C:\Projects\ASProject\ASProject.Producer\obj\Debug\net8.0\refint\ASProject.Producer.dll
+C:\Projects\ASProject\ASProject.Producer\obj\Debug\net8.0\ASProject.Producer.pdb
+C:\Projects\ASProject\ASProject.Producer\obj\Debug\net8.0\ref\ASProject.Producer.dll

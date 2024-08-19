@@ -1,0 +1,15 @@
+C:\Projects\ASProject\ASProject.Consumer\bin\Debug\net8.0\ASProject.Consumer.deps.json
+C:\Projects\ASProject\ASProject.Consumer\bin\Debug\net8.0\ASProject.Consumer.dll
+C:\Projects\ASProject\ASProject.Consumer\bin\Debug\net8.0\ASProject.Consumer.pdb
+C:\Projects\ASProject\ASProject.Consumer\bin\Debug\net8.0\ASProject.Domain.dll
+C:\Projects\ASProject\ASProject.Consumer\bin\Debug\net8.0\ASProject.Domain.pdb
+C:\Projects\ASProject\ASProject.Consumer\obj\Debug\net8.0\ASProject.Consumer.csproj.AssemblyReference.cache
+C:\Projects\ASProject\ASProject.Consumer\obj\Debug\net8.0\ASProject.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ASProject\ASProject.Consumer\obj\Debug\net8.0\ASProject.Consumer.AssemblyInfoInputs.cache
+C:\Projects\ASProject\ASProject.Consumer\obj\Debug\net8.0\ASProject.Consumer.AssemblyInfo.cs
+C:\Projects\ASProject\ASProject.Consumer\obj\Debug\net8.0\ASProject.Consumer.csproj.CoreCompileInputs.cache
+C:\Projects\ASProject\ASProject.Consumer\obj\Debug\net8.0\ASProjec.8EC20E2A.Up2Date
+C:\Projects\ASProject\ASProject.Consumer\obj\Debug\net8.0\ASProject.Consumer.dll
+C:\Projects\ASProject\ASProject.Consumer\obj\Debug\net8.0\refint\ASProject.Consumer.dll
+C:\Projects\ASProject\ASProject.Consumer\obj\Debug\net8.0\ASProject.Consumer.pdb
+C:\Projects\ASProject\ASProject.Consumer\obj\Debug\net8.0\ref\ASProject.Consumer.dll
